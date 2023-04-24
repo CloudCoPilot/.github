@@ -1,1 +1,1 @@
-A platform which increases your tasks by 10x
+A platform which increases your productivity by 10x
